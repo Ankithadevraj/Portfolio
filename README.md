@@ -12,7 +12,7 @@ This is my personal portfolio website, where I showcase my skills, projects, and
 - HTML, CSS
 
 ## Live Demo
-You can check out the live demo of my portfolio [here](https://github.com/Ankithadevraj/Portfolio).
+You can check out the live demo of my portfolio [here](https://ankithadevraj.github.io/Portfolio/).
 
 ## How to Use
 You can visit the website to view more about me and my work.
